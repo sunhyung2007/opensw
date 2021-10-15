@@ -1,0 +1,5 @@
+name : kim sunhyung
+id : 2016039059
+major : computer science
+grade : 4
+subject : opensw
